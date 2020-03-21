@@ -6,6 +6,9 @@
 -- Ver el ganador, y teletransportarlos al punto donde fueron tomados para competir.
 -- recompensar al ganador y anunciarlo.
 ................................
+
+
+
 |COMANDOS | Permisos
 |----------------|---------------|
-|/duel <jugador> | duel.jugador
+|/duel <jugador> | duel.jugador |
